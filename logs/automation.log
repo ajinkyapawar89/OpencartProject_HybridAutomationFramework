@@ -1,0 +1,102 @@
+12:48:57.879 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+12:48:57.991 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+12:48:58.517 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+12:48:58.519 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+12:48:59.926 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test failed
+12:51:46.563 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+12:51:46.666 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+12:51:47.245 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+12:51:47.248 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+12:51:47.420 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated First Name
+12:51:47.464 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated Last Name
+12:51:47.512 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated Email
+12:51:47.553 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated Password
+12:51:48.649 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test failed
+12:52:33.577 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+12:52:33.660 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+12:52:34.307 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+12:52:34.309 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+12:52:34.387 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated First Name
+12:52:34.624 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated Last Name
+12:52:34.673 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated Email
+12:52:34.736 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated Password
+12:52:35.788 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test failed
+12:56:49.171 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+12:56:49.254 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+12:56:50.083 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+12:56:50.084 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+12:56:50.145 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated First Name
+12:56:50.193 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated Last Name
+12:56:50.257 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated Email
+12:56:50.345 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated Password
+12:56:51.433 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test failed
+12:58:48.861 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+12:58:48.947 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+12:58:49.483 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+12:58:49.486 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+12:58:49.641 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated First Name
+12:58:49.683 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated Last Name
+12:58:49.729 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated Email
+12:58:49.773 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated Password
+12:58:50.852 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test failed
+14:13:48.516 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+14:13:48.605 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+14:13:49.199 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+14:13:49.203 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+14:13:49.264 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated First Name
+14:13:49.386 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated Last Name
+14:13:49.444 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated Email
+14:13:49.484 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated Password
+14:13:50.592 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test failed
+14:32:52.711 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+14:32:52.804 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+14:32:53.337 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+14:32:53.338 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+14:32:53.408 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated First Name
+14:32:53.526 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated Last Name
+14:32:53.568 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated Email
+14:32:53.607 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated Password
+14:32:54.663 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test failed
+14:33:11.712 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+14:33:11.796 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+14:33:12.335 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+14:33:12.337 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+14:33:12.429 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated First Name
+14:33:12.587 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated Last Name
+14:33:12.633 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated Email
+14:33:12.673 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated Password
+14:33:13.788 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test failed
+15:20:08.572 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+15:20:08.649 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+15:20:09.157 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+15:20:09.158 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+15:20:09.234 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated First Name
+15:20:09.356 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated Last Name
+15:20:09.401 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated Email
+15:20:09.439 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated Password
+15:20:10.511 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test failed
+16:05:46.938 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+16:05:47.007 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+16:05:47.566 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+16:05:47.568 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+16:05:47.644 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated First Name
+16:05:47.787 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated Last Name
+16:05:47.848 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated Email
+16:05:47.890 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated Password
+16:05:48.972 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test failed
+17:38:55.773 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+18:46:19.894 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+18:46:30.885 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+18:46:41.651 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+18:46:52.377 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+18:47:03.087 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+11:37:37.559 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+11:37:37.657 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+11:37:38.213 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+11:37:38.214 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+11:37:38.289 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated First Name
+11:37:38.410 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated Last Name
+11:37:38.458 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated Email
+11:37:38.500 [main] INFO  testCases.TC_001_AccountRegistrationTest - Updated Password
+11:37:39.570 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test failed
+11:37:42.907 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
